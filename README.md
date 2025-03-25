@@ -1,2 +1,2 @@
-# Game_Street fighting
+# Game_Street Fighting
 This game is a street fighting game written in python, using the main library pygame, hoping to bring you the best feelings about this game.
